@@ -1,4 +1,4 @@
-# Prediction-using-stock-market-data
+# Prediction of time series data with Neural Nets
 ### Predicting how the prices of Lumber-Futures will change in the future
 
 In this project we have considered the problem of predicting the changes in prices of real-time data, that appears in the form of a time-series. We have used neural networks for implementing this task (LSTM to be precise) and our implementing language is Python.
